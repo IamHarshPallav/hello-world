@@ -1,5 +1,4 @@
 # hello-world
-Just a start to open source community!
 
 Hello Humans!
 Harsh here, I am a hardware guy who is now interested in softwares ;‑)
