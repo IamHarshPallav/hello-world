@@ -1,0 +1,14 @@
+x=1
+for x in range(1,5):
+    if(x == 2):
+        pass
+        print("PASSED")
+    elif(x == 1):
+        print("CONTINUE")
+        continue
+    elif(x == 3):
+        print("BREAKED")
+        break
+    print(x)
+    x +=  1
+    
